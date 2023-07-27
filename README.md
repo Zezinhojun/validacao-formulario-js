@@ -28,7 +28,12 @@ Este é um projeto de validação de formulário em JavaScript, onde desenvolvi 
 ## Capturas de Tela
 
 <div align="center">
-  <img src="https://github.com/Zezinhojun/validacao-formulario-js/issues/1#issue-1825124590" alt="Captura de Tela 1" width="700px" />
+  https://github.com/Zezinhojun/validacao-formulario-js/issues/1#issue-1825124590
+</div>
+
+
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
 </div>
 
 <div align="center">
