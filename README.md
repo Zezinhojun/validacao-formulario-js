@@ -27,8 +27,13 @@ Este é um projeto de validação de formulário em JavaScript, onde desenvolvi 
 
 ## Capturas de Tela
 
-![Captura de Tela 1]([screenshots/screenshot1.png](https://github.com/Zezinhojun/validacao-formulario-js/assets/93098784/4d5f0962-e182-4db0-9280-e7ad12911972))
-![Captura de Tela 2](screenshots/screenshot2.png)
+<div align="center">
+  <img src"https://github.com/Zezinhojun/validacao-formulario-js/issues/1#issue-1825124590"/>
+</div>
+
+<div align="center">
+  <img src"https://github.com/Zezinhojun/validacao-formulario-js/issues/2#issue-1825132015"/>
+</div>
 
 ## Contribuindo
 
