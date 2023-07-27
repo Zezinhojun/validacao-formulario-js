@@ -28,13 +28,13 @@ Este é um projeto de validação de formulário em JavaScript, onde desenvolvi 
 ## Capturas de Tela
 
 <div align="center">
-  https://github.com/Zezinhojun/validacao-formulario-js/issues/1#issue-1825124590
+  <img src="img/screenshot1.png" alt="Captura de Tela 1" width="700px" />
 </div>
-
 
 <div align="center">
-  ![Captura de Tela 2]<img src="https://github.com/Zezinhojun/validacao-formulario-js/issues/2#issue-1825132015" alt="Captura de Tela 2" width="700px" />
+  <img src="img/screenshot2.png" alt="Captura de Tela 2" width="700px" />
 </div>
+
 
 
 ## Contribuindo
